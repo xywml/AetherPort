@@ -2,6 +2,8 @@
 # AetherPort | 云之彼端串口助手
 
 <div align="center">
+
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/xywml/AetherPort/blob/main/LICENSE)
   [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-brightgreen.svg)](https://vuejs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
   [![WebSerial](https://img.shields.io/badge/Web%20Serial%20API-Supported-lightgrey.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API)
