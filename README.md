@@ -48,6 +48,15 @@
 - **GitHub Issues**：[提交新问题](https://github.com/xywml/AetherPort/issues/new)
 - **Email**：`xywml@outlook.com`
 
+## 示例
+
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/ca65f901-6263-41a8-a43a-ee3c5fc881af" />
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/fdf35f5d-b7b4-43e1-b37f-a28981135379" />
+<img width="1912" height="954" alt="image" src="https://github.com/user-attachments/assets/bc97a6ae-93cd-4593-b1cc-b0a6e35dcb97" />
+
+
+
+
 ## 许可证信息
 
 本项目采用 [MIT 许可证](LICENSE)。
